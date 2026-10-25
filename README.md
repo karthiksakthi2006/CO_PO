@@ -254,3 +254,5 @@ Remove-Item -Path "co_attain.db" -ErrorAction SilentlyContinue
 ```powershell
 .\.venv\Scripts\pytest.exe -v
 ```
+#   s k i l l - g a p  
+ 
