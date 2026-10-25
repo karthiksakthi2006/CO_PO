@@ -37,3 +37,5 @@ class Settings(BaseSettings):
 
 
 settings = Settings()
+
+# Updated: skill-gap project configuration v1.1
